@@ -1,5 +1,4 @@
-## Hi there 👋
-# 🌐 Mi Portafolio  
+## 🌐 Mi Portafolio  
 
 ¡Bienvenido a mi portafolio! 🚀 Aquí encontrarás una recopilación de mis proyectos, habilidades y experiencia en desarrollo web.  
 
