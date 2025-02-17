@@ -1,16 +1,41 @@
 ## Hi there 👋
 
-<!--
-**Edw1nM4rquez/Edw1nM4rquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Mi Portafolio
+¡Bienvenido a mi portafolio! 🚀 Aquí encontrarás una recopilación de mis proyectos, habilidades y experiencia en desarrollo web.
 
-Here are some ideas to get you started:
+🛠️ Tecnologías utilizadas
+Frontend: Angular, TypeScript
+Backend: Laravel, PHP
+Base de datos: Microsoft SQL Server
+Otros: Node.js, Talend, XAMPP
+✨ Características
+📌 Presentación de proyectos con detalles técnicos y capturas de pantalla
+📝 Blog o sección de artículos sobre tecnología y desarrollo
+📩 Formulario de contacto para conectar conmigo
+📂 Instalación
+Si deseas ejecutar este portafolio en local:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Clona este repositorio:
+bash
+Copiar
+Editar
+git clone https://github.com/tu-usuario/tu-repo.git
+Instala las dependencias del frontend:
+bash
+Copiar
+Editar
+cd frontend
+npm install
+Instala las dependencias del backend:
+bash
+Copiar
+Editar
+cd backend
+composer install
+Configura las variables de entorno y ejecuta el proyecto 🚀
+📬 Contacto
+Si tienes preguntas o deseas colaborar, puedes encontrarme en:
+
+🌎 Mi sitio web
+📧 Correo: tuemail@example.com
+💼 LinkedIn: Tu perfil
