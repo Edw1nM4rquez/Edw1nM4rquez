@@ -25,9 +25,9 @@
 
 ## 📊 GitHub Stats
 
-![Edwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edw1nm4rquez&show_icons=true&theme=radical)
+![Edwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edw1nM4rquez&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edw1nm4rquez&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edw1nM4rquez&layout=compact&theme=radical)
 
 ---
 
