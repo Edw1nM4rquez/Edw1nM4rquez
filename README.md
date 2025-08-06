@@ -1,38 +1,37 @@
-👨‍💻 About Me
-Hi! I'm Edwin Fernando Marquez, a passionate Computer Science Engineer with over 4 years of professional experience in software development. I specialize in building scalable and efficient web applications using modern technologies and frameworks.
+# Edwin Fernando Marquez
 
-💼 What I Do
-⚙️ Backend development with Node.js and Laravel
+🎓 Computer Science Engineer  
+💼 Full-Stack Developer — 4+ Years of Experience  
+🌍 Based in Ecuador  
 
-🌐 Frontend development using Angular and React
+---
 
-🗄️ Database design and optimization with SQL and SQL Server
+## 🔧 Tech Stack
 
-🧠 Write clean, maintainable, and well-documented code
+- **Languages**: JavaScript, TypeScript, PHP, SQL  
+- **Frameworks**: Node.js, Laravel, Angular, React  
+- **Databases**: SQL Server, MySQL, PostgreSQL  
+- **Others**: REST APIs, WebSockets, Git, Docker
 
-🔍 Debug and improve application performance
+---
 
-🚀 Deploy full-stack applications and APIs
+## 🧩 Featured Projects
 
-✅ Strong focus on best practices, code quality, and security
+- 🚚 **Inventory Manager** — Laravel + Angular app for product tracking  
+- 💬 **Real-Time Chat App** — Built with Node.js, WebSockets & React  
+- 📈 **Sales Dashboard** — Analytics dashboard with filters, charts, and exports
 
-🛠️ Tech Stack
-Languages: JavaScript, TypeScript, PHP, SQL
+---
 
-Frameworks: Node.js, Express, Laravel, Angular, React
+## 📊 GitHub Stats
 
-Databases: MySQL, SQL Server, PostgreSQL
+![Edwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-Tools & Others: Git, Docker, REST APIs, WebSockets, JWT, Firebase, Linux CLI
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
-🌱 Currently Exploring
-Microservices architecture
+---
 
-Cloud services like AWS and Azure
+## 📫 Contact
 
-Testing frameworks like Jest and PHPUnit
-
-DevOps practices and CI/CD pipelines
-
-📫 Let's Connect
-Feel free to reach out or explore my repositories to see what I’m currently working on or have built. I’m always open to new challenges and collaborations!
+📧 Email: edwi1999@hotmail.com  
+📎 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
