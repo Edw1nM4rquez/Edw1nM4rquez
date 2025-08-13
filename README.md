@@ -34,4 +34,4 @@
 ## 📫 Contact
 
 📧 Email: edwi1999@hotmail.com  
-📎 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
+📎 Portfolio: ([https://your-portfolio.com](https://edw1nm4rquez.github.io/MyProfile/))  
