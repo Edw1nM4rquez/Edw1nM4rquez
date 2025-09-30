@@ -34,4 +34,4 @@
 ## 📫 Contact
 
 📧 Email: edwi1999@hotmail.com  
-📎 Portfolio: ([https://my-portfolio.com](https://edw1nm4rquez.github.io/MyProfile/))  
+📎 Portfolio: ([https://mi-perfil.com](https://my-profile-lac-ten.vercel.app/))  
